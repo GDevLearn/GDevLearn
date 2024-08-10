@@ -33,7 +33,7 @@
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)](https://obsidian.md/)
 
 ### Favorite operating systems
-![Windows 10 Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10+Pro+Freeware&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) 
+![Windows 10 Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10+Pro&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) 
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
