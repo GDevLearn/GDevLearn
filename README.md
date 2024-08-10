@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <h1>Welcome to my profile
-  <a href="https://www.youtube.com/@GDevLearn-j6e" target="_blank"><img src="https://yt3.googleusercontent.com/3KEgATq9bqhXB7l9aCo4bJgRIxTE35KOyRS0PCkahlYCLfmAJ8Gz2GwDKPF5YajzhCasF1lhPfY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="My YouTube Channel" style="width: 150px; height: 30px;" width="150" height="30" /></a></h1>
-
+    <a href="https://www.youtube.com/@GDevLearn-j6e" target="_blank">
+      <img src="https://yt3.googleusercontent.com/3KEgATq9bqhXB7l9aCo4bJgRIxTE35KOyRS0PCkahlYCLfmAJ8Gz2GwDKPF5YajzhCasF1lhPfY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="My YouTube Channel" style="width: 150px; height: 30px;" width="150" height="30"/>
+    </a>
+  </h1>
 </div>
 
 <div id="languages" align="center">
