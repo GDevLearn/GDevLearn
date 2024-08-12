@@ -18,7 +18,7 @@
 
 ## Recomended tools
 ##### IDE
-[![Pygame Community Edition](https://img.shields.io/badge/Pygame_Community_Edition-6807cf?style=for-the-badge&logo=python&logoColor=c2fc20)](https://pyga.me/)
+[![PyCharm Community Edition](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm+Community+Edition&color=ff8819&logo=PyCharm&logoColor=000000&label=)](https://www.jetbrains.com/ru-ru/pycharm/download/other.html)
 ##### Game engine
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
 ##### Game resources
