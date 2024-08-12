@@ -22,6 +22,7 @@
 ##### Game engine
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
 ##### Game resources
+![Itch.io](https://img.shields.io/badge/itch.io-111111?style=for-the-badge&logo=itch.io)
 ##### Libraries
 [![Pygame Community Edition](https://img.shields.io/badge/Pygame_Community_Edition-6807cf?style=for-the-badge&logo=python&logoColor=c2fc20)](https://pyga.me/)
 ##### Audio Editing
